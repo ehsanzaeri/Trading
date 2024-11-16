@@ -54,5 +54,5 @@ while True:
     else:
         print("Mnemonic is invalid!\n")
 
-    print("Waiting 120 seconds before next check...\n")
-    time.sleep(120)
+    print("Waiting 360 seconds before next check...\n")
+    time.sleep(360)
